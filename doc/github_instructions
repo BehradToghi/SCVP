@@ -1,0 +1,54 @@
+For this project, we have not given master branch privileges to everyone.
+Therefore, everyone is expected to work on their branches and after testing, we can merge that branch to the master.
+Make sure that the branch you create is related to the modification that you are trying to do.
+
+Steps to create a branch on github:
+1. Go to Github using https://github.com/CAVREL/SCAVE-CPS
+2. Click the branch option and a pop-up menu will appear.
+3. In the 'Find or create a branch', just enter the branch name and press Enter.
+   Now, you will automatically be in the branch you just created.
+
+.......................................................................................................
+
+There are two main ways to pull/push to/from the Github:
+1. Manual
+2. Using the terminal
+
+PULL FROM GITHUB
+1. Manual:
+  a. Go to Github using https://github.com/CAVREL/SCAVE-CPS
+  b. If you are trying to pull form the official version of the code, make sure you are in the master branch.
+     You can do that by checking on the left side of the screen that branch is 'Branch: Master'.
+  c. On the right side of the screen, click the 'Clone or download' option.
+  d. Click the option of 'Download zip' and you will ge tthe entire project on your computer.
+
+2. Using the terminal:
+
+
+PUSH TO GITHUB
+1. Manual:
+  a. Go to Github using https://github.com/CAVREL/SCAVE-CPS
+  b. For this project, you can only push to your branch (NOT THE MASTER).
+     First make sure that you are in the branch that you want to modify. 
+     You can do that by clicking the branch option and a pop-up menu will appear. Click the branch
+     that you want to modify.
+  c. Go to the folder where you want to make modifications (add file(s)).
+  d. Click 'Upload files' on the right side of the screen.
+  e. Add all the files that you want to push to the branch and include a small comment in the description area
+     so that everyone knows about what you modified/added.
+      
+     
+2. Using a terminal
+
+..........................................................................................................
+Merging to the master branch
+
+As mentioned earlier, not everyone has master privileges. Therefore, if you want the code in your branch
+to be merged to the master, you need to submit a pull request.
+
+Steps:
+  1. Go to Github using https://github.com/CAVREL/SCAVE-CPS
+  2. Click on 'New Pull Request'
+  3. Wrtie some comments about what changes you have made and click 'Create Pull Request'
+  
+  
