@@ -1,8 +1,8 @@
 # SCVP
 ## Small-scale Cooperative Vehicle Platform
-For more information about this project, please refer to: 
-http://toghi.net/research/
+### For more information about this project, please refer to:  http://toghi.net/research/
 
+![SCVP](/doc/6.png?raw=true "Small-scale Cooperative Vehicle Platform")
 ![SCVP](/doc/scvp.png?raw=true "Small-scale Cooperative Vehicle Platform")
 
 
