@@ -1,6 +1,12 @@
-# SCAVE-CPS
-This is the Github Repo for SCAVE-CPS project
+# SCVP
+## Small-scale Cooperative Vehicle Platform
+For more information about this project, please refer to: 
+http://toghi.net/research/
 
+![SCVP](/doc/scvp.png?raw=true "Small-scale Cooperative Vehicle Platform")
+
+
+Details of the sourcecode:
 ## dev , folder with class for OS, Perception , Path planning , Control
 ## doc , Documentation folder + github repo instructions
 ## examples , CARLA examples
