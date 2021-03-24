@@ -3,11 +3,13 @@
 ### For more information about this project, please refer to:  http://toghi.net/research/
 
 <p align="center">
-  <img width="460"  src="/doc/6.png">
+  <img width="560"  src="/doc/6.png">
 </p>
 
-![SCVP](/doc/6.png | width="400") 
-![SCVP](/doc/scvp.png?raw=true "Small-scale Cooperative Vehicle Platform" | width=400)
+
+<p align="center">
+  <img width="560"  src="/doc/scvp.png">
+</p>
 
 
 Details of the sourcecode:
