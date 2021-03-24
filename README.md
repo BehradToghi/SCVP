@@ -2,7 +2,11 @@
 ## Small-scale Cooperative Vehicle Platform
 ### For more information about this project, please refer to:  http://toghi.net/research/
 
-![SCVP](/doc/6.png| width="400") 
+<p align="center">
+  <img width="460"  src="/doc/6.png">
+</p>
+
+![SCVP](/doc/6.png | width="400") 
 ![SCVP](/doc/scvp.png?raw=true "Small-scale Cooperative Vehicle Platform" | width=400)
 
 
